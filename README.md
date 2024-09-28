@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=2046893478&spec=100" width="200" height="200" alt="go-cqhttp">
+  <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=2046893478&spec=100" width="200" height="200" alt="typh">
 </p>
 
 <div align="center">
