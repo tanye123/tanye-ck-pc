@@ -1,4 +1,11 @@
-![image](http://q2.qlogo.cn/headimg_dl?dst_uin=2046893478&spec=100)
+<p align="center">
+  <img src="http://q2.qlogo.cn/headimg_dl?dst_uin=2046893478&spec=100" width="200" height="200" alt="go-cqhttp">
+</p>
+
+<div align="center">
+
+
+
 # tanye-ck-pc
 这个是基于myqq框架编写的插件，插件功能是模仿之前手机QQ机器人的词库写法实现机器人的简单快速开发
 # 易语言
